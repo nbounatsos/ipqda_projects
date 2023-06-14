@@ -15,3 +15,11 @@ assignment_A/images
 assignment_B/__MACOSX
 assignment_B/W47-SGFP2-mScarlet-I-01-1_2channels.tif
 assignment_B/(ADDITIONAL)PHmScarletIrisSyfpPH.tif
+
+# Assignment C
+assignment_C/big-fish-IPQDA/.git
+assignment_C/big-fish-IPQDA/data
+assignment_C/big-fish-IPQDA/images
+assignment_C/big-fish-IPQDA/.gitignore
+assignment_C/big-fish-IPQDA/LICENSE
+assignment_C/big-fish-IPQDA/README.md
