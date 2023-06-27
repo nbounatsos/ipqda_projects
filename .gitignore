@@ -29,3 +29,14 @@ assignment_D/__MACOSX
 assignment_D/IPQDA_23_ASS_D_DATA
 assignment_D/*.tiff
 assignment_D/*.tif
+
+# Assignment E
+assignment_E/__MACOSX
+assignment_E/IPQDA_23_ASS_E_DATA
+assignment_E/*.tiff
+assignment_E/*.tif
+
+# Lecture slides
+*.pptx
+*.ppt
+*.pdf
